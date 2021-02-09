@@ -1,0 +1,1 @@
+We are using PIL package from where we overlay two images using paste().
