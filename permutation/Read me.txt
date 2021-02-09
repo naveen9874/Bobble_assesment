@@ -1,0 +1,6 @@
+Finding Permutation from ".CSV" file
+
+1. If lunix or windows Run in command line.
+2. Or run in python idle or pycharm.
+3. Create csv file in python folder.
+4. Paste the directory of that csv file in the code.
